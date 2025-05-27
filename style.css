@@ -152,7 +152,7 @@ p {
 .slider-container {
     overflow: hidden;
     width: 100%;
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
     border: 1px solid #dfdfdc;
     border-radius: 10px;
