@@ -293,62 +293,6 @@ p {
     font-size: 1rem;
 }
 
- /*product 2 */
-.catalog-container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 20px;
-    padding: 20px;
-}
-
-.product-card {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    width: 100%;
-    max-width: 100px; /* Matches iPhone 14 Pro Max viewport */
-    text-align: center;
-    padding: 16px;
-}
-
-.product-image {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-bottom: 16px;
-}
-
-.product-title {
-    font-size: 18px;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 8px;
-}
-
-.product-price {
-    font-size: 16px;
-    color: #666;
-    margin-bottom: 16px;
-}
-
-.checkout-button {
-    background-color: #3453db;
-    color: #fff;
-    font-size: 16px;
-    border: none;
-    border-radius: 8px;
-    padding: 10px 20px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.checkout-button:hover {
-    background-color: #2980b9;
-}
-
 /* Global Styles */
 body {
     font-family: Arial, sans-serif;
